@@ -89,7 +89,3 @@ To develop a Logistic Regression model that predicts whether an employee will st
 
 ---
 
-## 📋 Author & License
-
-**Author**: [Your Name]  
-**License**: [Choose a license, e.g., MIT]
